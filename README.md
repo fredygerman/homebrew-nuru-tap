@@ -9,7 +9,7 @@ To use this tap, you'll need to have Homebrew installed on your macOS system. If
 Once you have Homebrew installed, you can add this tap to your system:
 
 ```bash
-brew tap fredygerman/nuru
+brew tap fredygerman/nuru-tap
 ```
 
 After that, you can install the Nuru compiler:
