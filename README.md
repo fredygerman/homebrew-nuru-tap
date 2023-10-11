@@ -35,13 +35,13 @@ Nuru is also available for Android, Linux and Windows. You can find the installa
 
 ## Issues
 
-If you encounter any issues with the Nuru Homebrew tap, please create an [issue](https://github.com/fredygerman/nuru-homebrew-tap/issues) on this repository.
+If you encounter any issues with the Nuru Homebrew tap, please create an [issue](https://github.com/fredygerman/homebrew-nuru-tap/issues) on this repository.
 
 If you encounter any issues apart from the Homebrew tap, please create an issue on the [Nuru GitHub repository](https://github.com/NuruProgramming/Nuru).
 
 ## Contributing
 
-If you would like to contribute to the Nuru Homebrew tap, please create a [pull request](https://github.com/fredygerman/nuru-homebrew-tap/pulls) on this repository.
+If you would like to contribute to the Nuru Homebrew tap, please create a [pull request](https://github.com/fredygerman/homebrew-nuru-tap/pulls) on this repository.
 
 ## Author
 
