@@ -27,7 +27,7 @@ You can follow Nuru usage from the [Nuru Documentation](https://nyaraka.vercel.a
 For macOs Nuru is currently supported on the following architectures:
 
 - [✅]: macOS ARM64 (Apple Silicon).
-- [🚧]: macOS x86_64 (Intel) [Support coming soon].
+- [✅]: macOS x86_64 (Intel).
 
 If you are using macOS x86_64 (Intel), please note that Nuru support is not available yet. You will receive an error message during installation. We are actively working on adding support for x86_64 systems, and you can track the progress in the [Nuru GitHub repository](https://github.com/NuruProgramming/Nuru).
 
